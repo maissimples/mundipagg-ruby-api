@@ -180,7 +180,6 @@ module Mundipagg
 				'mun:Email' => request.buyer.email,
 				'mun:GenderEnum' => request.buyer.genderEnum,
 				'mun:FacebookId' => request.buyer.facebookId,
-				'mun:GenderEnum' => request.buyer.genderEnum,
 				'mun:HomePhone' => request.buyer.homePhone,
 				'mun:IpAddress' => request.buyer.ipAddress,
 				'mun:MobilePhone' => request.buyer.mobilePhone,
